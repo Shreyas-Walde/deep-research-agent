@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+main.py
+test.py
+test1.py
+Untitled.ipynb
+fast-research.py
+# Virtual environments
+.venv
+.env

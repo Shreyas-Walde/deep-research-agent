@@ -1,0 +1,16 @@
+[project]
+name = "faster-research-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cerebras-cloud-sdk>=1.50.1",
+    "dotenv>=0.9.9",
+    "exa-py>=1.15.6",
+    "langchain>=0.3.27",
+    "langchain-cerebras>=0.5.0",
+    "langchain-exa>=0.3.1",
+    "langgraph>=0.6.8",
+    "pydantic>=2.11.9",
+]
